@@ -4,8 +4,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node ./api/index.js",
-    "dev": "nodemon ./api/index.js",
+    "start": "node ./index.js",
+    "dev": "nodemon ./index.js",
     "users": "node ./models/data/users.js",
     "authors": "node ./models/data/authors.js",
     "categories": "node ./models/data/categories.js",
